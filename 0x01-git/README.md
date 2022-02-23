@@ -1,2 +1,2 @@
 # 0x01-git
-this is the first git progect
+This is the first git progect
